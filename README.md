@@ -8,6 +8,17 @@ This project demonstrates an AI/ML pipeline to score resumes for data-related jo
 * Length Mitigation: Prevents longer resumes from receiving unfairly high scores.
 * Explainable AI: Uses SHAP to visualize the features driving the model's decisions.
 
+## Results
+### 1️⃣ Average Skill Presence
+Shows how common each skill is in all resumes:
+
+![Average Skill Presence](results/average_skill_presence.png)
+
+### 2️⃣ SHAP Feature Importance
+Shows which skills affected the AI score the most:
+
+![SHAP Feature Importance](results/shap_feature_importance.png)
+
 ## How to Use
 1. Open the FairHire_AI.ipynb file in this repository.
 2. Click the "Open in Colab" button at the top of the notebook to run the code.
