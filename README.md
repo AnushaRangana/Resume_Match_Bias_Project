@@ -19,6 +19,10 @@ Shows which skills affected the AI score the most:
 
 ![SHAP Feature Importance](results/shap_feature_importance.png)
 
-## How to Use
-1. Open the FairHire_AI.ipynb file in this repository.
-2. Click the "Open in Colab" button at the top of the notebook to run the code.
+
+## ⚙️ How to Run
+
+### Step 1: Clone the repository
+```bash
+git clone <your-repo-link>
+cd FairHire-AI
