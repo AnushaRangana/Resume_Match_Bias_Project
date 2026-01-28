@@ -28,13 +28,7 @@ The repository emphasizes methodology, fairness analysis, and explainability, ra
 | ![SHAP Chart](results/shap_feature_importance.png) | ![Bias Report](results/bias_mitigation_report.png) | ![Skill Chart](results/average_skill_presence.png) |
 | Highlights features influencing scores | Compares original vs fairness-adjusted scores | Shows frequently detected skills |
 
-
-## 🛠 Tools Used
-- *Python* – Core implementation language  
-- *Pandas & Matplotlib* – Data processing and visualization  
-- *SHAP* – Model explainability and interpretation  
-
-
+  
 ## 🚀 How to Run This Project
 This notebook was developed locally and uploaded to the repository. To execute it using Google Colab:
 
