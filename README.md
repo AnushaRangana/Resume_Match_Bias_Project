@@ -35,6 +35,7 @@ The notebook demonstrates the full resume scoring, bias mitigation, and explaina
   
 ## 🚀 How to Run This Project
 This notebook was developed locally and uploaded to the repository. To execute it using Google Colab:
+A small sample dataset is included in the repository to demonstrate the workflow and ensure reproducibility.
 
 1. Download the FairHire_AI_Resume_JobMatching.ipynb file from this repository to your local system.
 2. Open Google Colab at: https://colab.research.google.com
