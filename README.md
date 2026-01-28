@@ -28,6 +28,15 @@ The repository emphasizes methodology, fairness analysis, and explainability, ra
 | ![SHAP Chart](results/shap_feature_importance.png) | ![Bias Report](results/bias_mitigation_report.png) | ![Skill Chart](results/average_skill_presence.png) |
 | Highlights features influencing scores | Compares original vs fairness-adjusted scores | Shows frequently detected skills |
 
+## 📂 Dataset Information
+This project utilizes datasets focused on resume text and job requirements. To ensure privacy, all files containing personal contact information have been excluded from this public repository.
+
+| File Name | Description | Key Columns |
+| :--- | :--- | :--- |
+| UpdatedResumeDataSet.csv | A collection of resumes categorized by job role used for scoring. | Category, Resume_Text |
+| job_postings.csv | Technical job descriptions used as the target for matching. | Job_Title, Required_Skills |
+
+> *Note:* The analysis focuses on the technical skills and content density of resumes. No private candidate data (emails, phone numbers, or addresses) is stored in this repository.
   
 ## 🚀 How to Run This Project
 This notebook was developed locally and uploaded to the repository. To execute it using Google Colab:
