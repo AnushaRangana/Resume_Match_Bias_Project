@@ -41,7 +41,7 @@ This project utilizes datasets focused on resume text and job requirements. To e
 ## 🚀 How to Run This Project
 This notebook was developed locally and uploaded to the repository. To execute it using Google Colab:
 
-1. Download the FairHire_AI.ipynb file from this repository to your local system.
+1. Download the FairHire_AI_Resume_JobMatching.ipynb file from this repository to your local system.
 2. Open Google Colab at: https://colab.research.google.com
 3. Select *File → Upload Notebook* and upload the downloaded file.
 4. Run all cells sequentially using *Runtime → Run all*.
